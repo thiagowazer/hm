@@ -1,4 +1,4 @@
-# 🤖 Brizas-bot 🤖
+# 🤖 Hidra-bot 🤖
 <h1 align="center">
     <p>
         <img src= "https://i.imgur.com/sm6LGkk.gif">
@@ -24,7 +24,7 @@
 
 # 🤔 O que é ?
 
-O Brizas-bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/termux-wabot) e do [Briz4Lok4](https://github.com/ianmsfvenom) que foi modificado e adicionado diversos comandos que foram desenvolvido principalmente para satisfazer o povo brasileiro, com gerador de cidadão, CPF, e CC, e muito mais, em breve será lançado uma base traduzida e com alguns comandos do Brizas-bot para os usuarios poderem editar com total liberdade 
+O Hidra-bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/termux-wabot) e do [Briz4Lok4](https://github.com/ianmsfvenom) que foi modificado e adicionado diversos comandos que foram desenvolvido principalmente para satisfazer o povo brasileiro, com gerador de cidadão, CPF, e CC, e muito mais, em breve será lançado uma base traduzida e com alguns comandos do Brizas-bot para os usuarios poderem editar com total liberdade 
 
 ---
 
@@ -34,7 +34,7 @@ O Brizas-bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
-git clone https://github.com/ianmsfvenom/Brizas-bot
+git clone https://github.com/hidrabotz/hm
 cd Brizas-bot
 bash install.sh
 npm install
@@ -53,7 +53,7 @@ pm2 start index.js
 # 🙋‍♂️ Como mudar as configurações do bot
 ```
 cd
-cd Brizas-bot
+cd hm
 apt install nano
 nano config.js
 
@@ -84,10 +84,10 @@ Bom, esse bot não teria sido feito sem a base do, [MhankBars](https://github.co
 
 ---
 
-# 🥺 Donate
-[Paypal](https://www.paypal.com/donate/?hosted_button_id=QQ4MFP2AZV9TW)
+# 🌳 Nada não
+kkkkk
 
-Pix
+kkkk
 
 <img src="https://i.imgur.com/891Ah3r.jpeg" width="300" >
 
