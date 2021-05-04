@@ -4,7 +4,7 @@
         <img src= "https://i.imgur.com/sm6LGkk.gif">
     </p>
     <p>
-        <a href="https://github.com/ianmsfvenom"><img title="Author"    src="https://img.shields.io/badge/Author-Briz4loka-purple.svg?style=for-the-badge&logo=github"></a>
+        <a href="https://github.com/ianmsfvenom"><img title="Author"    src="https://img.shields.io/badge/Author-HidraBotz-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
         <a href="https://github.com/ianmsfvenom/followers"><img title="Followers" src="https://img.shields.io/github/followers/ianmsfvenom?color=blue&style=flat-square"></a>
@@ -106,7 +106,7 @@ kkkk
 ---
 # 🤝 Contato
 
-[Whatsapp](https://api.whatsapp.com/send/?phone=%2B557187645787&text&app_absent=0)
+[Whatsapp](https://api.whatsapp.com/send/?phone=%2B556796005372text&app_absent=0)
 
 [Youtube](https://www.youtube.com/channel/UCK_e0brrGXeXk-zg2NFbJTg)
 
