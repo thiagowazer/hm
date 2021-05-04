@@ -24,7 +24,7 @@
 
 # 🤔 O que é ?
 
-O Brizas-bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/termux-wabot) e do [Briz4Lok4](https://github.com/ianmsfvenom)que foi modificado e adicionado diversos comandos que foram desenvolvido principalmente para satisfazer o povo brasileiro, com gerador de cidadão, CPF, e CC, e muito mais, em breve será lançado uma base traduzida e com alguns comandos do Brizas-bot para os usuarios poderem editar com total liberdade 
+O Brizas-bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/termux-wabot) e do [Briz4Lok4](https://github.com/ianmsfvenom) que foi modificado e adicionado diversos comandos que foram desenvolvido principalmente para satisfazer o povo brasileiro, com gerador de cidadão, CPF, e CC, e muito mais, em breve será lançado uma base traduzida e com alguns comandos do Brizas-bot para os usuarios poderem editar com total liberdade 
 
 ---
 
